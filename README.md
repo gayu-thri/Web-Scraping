@@ -10,3 +10,6 @@ able to display it earlier in the search list.
 
 + urllib.request
 + bs4
++ XlsxWriter
++ openpyxl
++ pyexcel-xls
